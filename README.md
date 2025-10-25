@@ -4,7 +4,7 @@
 
 This project implements a **multi-threaded dictionary server** in Java that allows multiple clients to **search, add, remove, and update words** concurrently. The system uses **TCP sockets** for reliable communication and a **custom worker pool architecture** to handle multiple client requests efficiently.
 
-The design ensures **low resource consumption**, **fast responsiveness**, and **safe concurrency management**.
+The design ensures **low resource consumption**, **fast responsiveness**, and **safe concurrency management**. Full report can be found [here](Report.pdf).
 
 ---
 
